@@ -1,6 +1,6 @@
 baseurl: ''
 languageCode: en-us
-title: Minimalist
+title: Laravel images
 googleAnalytics: ""
 disqusShortname: ""
 preserveTaxonomyNames: true
@@ -20,15 +20,14 @@ permalinks:
   writing: /:year/:month/:day/:slug/
 
 params:
-  description: "Minimalist theme for Hugo"
+  description: "Laravel images provided by laraboot.io"
 
 frontmatter:
-  author: Example
-  github: 'https://github.com/example'
-  facebook: 'https://facebook.com/example'
+  author: Laraboot
+  github: 'https://laraboot.io'
   og_image: 
   sitename: Minimalist
-  twitter: '@twitter'
+  twitter: '@wownevarez'
 
 sitemap:
   changefreq: monthly
